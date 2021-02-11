@@ -1,0 +1,18 @@
+-developers are keeping their codes under main>>java usually
+-Also their keeping their unit test in test folder but this is just standart
+-Maven heps us how to build project. it is  used to not only for web application or test
+-Jenkins does not use eclipse or intelliJ, jenkins use maven automatically
+-application server is not phisical
+- Maven is a project build tool
+-But maven, It's not only one build tool for java, there is also Ant and Gradle
+-Deployment- it's a process of delivering new version of software to the application server.
+-Release - it's a process of delivering new version of software to the end-user
+-Maven helps us to automate all process starting from compiling project and till deployment
+-web service - it's an application, that process some data and works through web
+-application server - it's software that hosts web service
+- Mac it's UNIX OS
+-If maven is not recognized, you did not installed maven yet
+-String buffer is treat safe also it slower
+-LEARN TREAT LOCAL IN DRVER CLASS
+-Failed runner should not generate json reports
+-
